@@ -1,4 +1,4 @@
-# Background-Generator
+<h1> <li>  Background-Generator </li></h1>
 A simple Javascript background generator
 <ul> 
 <li> Two buttons ✔️ </li>
