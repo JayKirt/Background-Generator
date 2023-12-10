@@ -1,5 +1,5 @@
 # Background-Generator
 A simple Javascript background generator
 <ul> 
-<li> </li>
+<li> Two buttons </li>
 </ul>
